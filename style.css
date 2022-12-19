@@ -1,0 +1,52 @@
+body
+{
+    text-align: center;
+    background-color: #fefae0;
+    margin: 0;
+    font-family: 'Kalam', cursive;
+}
+.dice-image
+{
+    height:10rem;
+    width:10rem;
+
+}
+
+footer
+{
+ 
+    margin: 5% 0 5% 0;
+    color: rgb(132, 126, 113)
+   
+}
+footer:hover
+{color: black;}
+
+.heading
+{
+    
+   
+    font-size: 3.5rem;
+    /* background-color:#606c38; */
+    margin: 0;
+    padding: 1rem;
+}
+
+
+
+.player2, .player1
+{
+    display: inline-block;
+    margin: 3rem;
+    
+    
+}
+.result
+{margin: 0;}
+.title
+{
+    font-size: 5rem;
+    background-color: #606c38;
+    margin: 0;
+    padding: 1rem;
+}
